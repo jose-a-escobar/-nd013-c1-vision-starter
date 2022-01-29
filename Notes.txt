@@ -1,0 +1,4 @@
+python experiments/model_main_tf2.py --model_dir=experiments/reference/ --pipeline_config_path=experiments/reference/pipeline_new.config
+
+tensorboard launch:
+python /data/virtual_envs/sdc-c1-gpu-augment/lib/python3.7/site-packages/tensorboard/main.py --logdir=training
