@@ -1,0 +1,54 @@
+Object density info
+Number of trips with low object density  = 65
+Number of trips with high object density = 35
+Light conditions info
+Number of trips during day   = 89
+Number of trips during night = 11
+weather info
+Number of trips with bad weather  = 8
+Number of trips with fair weather = 92
+********** weather **********************
+test
+Number of trips in weather with bad conditions for test dataset = 1
+validation
+Number of trips in weather with bad conditions for validation dataset = 1
+********** light **********************
+test
+Number of trips in light with night conditions for test dataset = 1
+validation
+Number of trips in light with night conditions for validation dataset = 2
+********** density **********************
+test
+Number of trips in density with high conditions for test dataset = 4
+validation
+Number of trips in density with high conditions for validation dataset = 5
+[1, 1, 4]
+[1, 2, 5]
+Number of trips in test split is = 10
+
+
+Number of trips in validation split is = 15
+
+
+Number of trips in training split is = 75
+********* TEST *****************
+Object density info
+Number of trips with high object density = 4
+Light conditions info
+Number of trips during night = 1
+weather info
+Number of trips with bad weather  = 1
+********* VALIDATION *****************
+Object density info
+Number of trips with high object density = 5
+Light conditions info
+Number of trips during night = 2
+weather info
+Number of trips with bad weather  = 1
+********* TRAINING *****************
+Object density info
+Number of trips with high object density = 26
+Light conditions info
+Number of trips during night = 8
+weather info
+Number of trips with bad weather  = 6
